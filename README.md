@@ -33,13 +33,13 @@ Check out the hosted version of the application here:
 4. **Run the App Locally: After setting up the environment and installing dependencies, you can run the app with Streamlit**
    ```bash
    streamlit run app.py
-Usage
-Upload an Image: Upload an image of the food or meal you want to analyze.
-Enter a Prompt: Type a brief prompt (optional) to describe the task.
-Analyze: Click the "Scan & Analyze" button, and NutriPro will process the image using the Gemini API and display the nutritional information.
-Technologies Used
-Streamlit: For building the user interface.
-Google Gemini: AI model for generating food recognition and nutritional data.
-Python: Core programming language.
-PIL (Pillow): For image processing.
-dotenv: To manage environment variables.
+## Usage
+- Upload an Image: Upload an image of the food or meal you want to analyze.
+- Enter a Prompt: Type a brief prompt (optional) to describe the task.
+- Analyze: Click the "Scan & Analyze" button, and NutriPro will process the image using the - - - Gemini API and display the nutritional information.
+## Technologies Used
+- Streamlit: For building the user interface.
+- Google Gemini: AI model for generating food recognition and nutritional data.
+- Python: Core programming language.
+- PIL (Pillow): For image processing.
+- dotenv: To manage environment variables.
