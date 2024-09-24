@@ -36,7 +36,7 @@ Check out the hosted version of the application here:
 ## Usage
 - Upload an Image: Upload an image of the food or meal you want to analyze.
 - Enter a Prompt: Type a brief prompt (optional) to describe the task.
-- Analyze: Click the "Scan & Analyze" button, and NutriPro will process the image using the - - - Gemini API and display the nutritional information.
+- Analyze: Click the "Scan & Analyze" button, and NutriPro will process the image using the Gemini API and display the nutritional information.
 ## Technologies Used
 - Streamlit: For building the user interface.
 - Google Gemini: AI model for generating food recognition and nutritional data.
