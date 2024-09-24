@@ -24,6 +24,22 @@ Check out the hosted version of the application here:
    ```bash
    git clone https://github.com/yourusername/nutripro.git
    cd nutripro
-2.**Install Dependencies: Install the required Python packages by running:**
+2. **Install Dependencies: Install the required Python packages by running:**
    ```bash
-    pip install -r requirements.txt
+   pip install -r requirements.txt
+3. **Set Up Environment Variables: Create a .env file in the project directory and add your Google API key:**
+   ```bash
+   GOOGLE_API_KEY="your-google-api-key"
+4. **Run the App Locally: After setting up the environment and installing dependencies, you can run the app with Streamlit**
+   ```bash
+   streamlit run app.py
+Usage
+Upload an Image: Upload an image of the food or meal you want to analyze.
+Enter a Prompt: Type a brief prompt (optional) to describe the task.
+Analyze: Click the "Scan & Analyze" button, and NutriPro will process the image using the Gemini API and display the nutritional information.
+Technologies Used
+Streamlit: For building the user interface.
+Google Gemini: AI model for generating food recognition and nutritional data.
+Python: Core programming language.
+PIL (Pillow): For image processing.
+dotenv: To manage environment variables.
