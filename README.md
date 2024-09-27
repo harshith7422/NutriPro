@@ -43,3 +43,8 @@ Check out the hosted version of the application here:
 - Python: Core programming language.
 - PIL (Pillow): For image processing.
 - dotenv: To manage environment variables.
+## Results
+![image](https://github.com/user-attachments/assets/cf80bf0b-9211-4e72-9015-a436307c1417)
+![image](https://github.com/user-attachments/assets/e1a827d9-e561-46ed-80f5-6f899b0ed3b9)
+![image](https://github.com/user-attachments/assets/48b8956d-f2df-4317-a13d-62fb09c1c3e6)
+
